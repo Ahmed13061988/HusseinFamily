@@ -70,8 +70,9 @@ p {
   left: 50%;
   transform: translate(-50%, -50%);
   width: 30%;
+  height: 1200px;
 
-  padding: 6rem;
+  padding: 3rem;
   border-radius: 5px;
   box-shadow: 0 3rem 5rem rgba(0, 0, 0, 0.3);
   z-index: 10;
